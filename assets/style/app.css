@@ -31,7 +31,7 @@ padding-top: 55px;
   margin: 10px auto 20px;
 }
 .contact a {
-    color: white;
+    color: black;
     font-size: 30px;
 }
 .watermark {
@@ -47,4 +47,5 @@ padding-top: 100px;
 .footer {
   background-color: #fffeff; 
     padding-bottom: 50px;
+
 }
